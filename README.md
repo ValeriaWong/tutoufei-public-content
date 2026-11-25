@@ -4,7 +4,7 @@
 
 ## 内容
 
-- `agentsmd-tutorials-viz-20261125.html` — AGENTS.md 教程全网扫描：95 条教程的信息可视化（2026-11-25）。直接用浏览器打开。
+- `agentsmd-tutorials-viz-20261125.pdf` — AGENTS.md 教程全网扫描：95 条教程的信息可视化（2026-11-25），单页 PDF，直接打开即可。
 - `references/` — 参考文献：
   - `agentsmd-tutorials-sweep-20261125.md` — 95 条明细表（平台、语言、形式、日期、完整 13 组搜索关键词）
   - `agentsmd-tutorials-commonalities-20261125.md` — 12 条共性与 7 条可借鉴点
